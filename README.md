@@ -51,7 +51,7 @@ O diagrama ER contempla:
 
 👉 Aqui está um exemplo de diagrama ER que pode ser incluído no repositório:
 
-![Modelo ER da Oficina](./modelo-er-oficina.png)
+![Modelo ER da Oficina](./Oficina.png)
 
 ---
 
